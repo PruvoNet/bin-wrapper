@@ -27,9 +27,9 @@
 	"dependencies": {
 		"bin-check": "^4.1.0",
 		"bin-version-check": "^4.0.0",
-		"download": "^7.1.0",
+		"download": "^8.0.0",
 		"import-lazy": "^3.1.0",
-		"os-filter-obj": "^2.0.0",
+		"os-filter-obj": "https://github.com/PruvoNet/os-filter-obj#3ee2de04f2883588f6641b7952821b109a05f75a",
 		"pify": "^4.0.1"
 	},
 	"devDependencies": {
