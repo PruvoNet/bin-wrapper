@@ -29,7 +29,7 @@
 		"bin-version-check": "^4.0.0",
 		"download": "^8.0.0",
 		"import-lazy": "^3.1.0",
-		"os-filter-obj": "https://github.com/PruvoNet/os-filter-obj#3ee2de04f2883588f6641b7952821b109a05f75a",
+		"os-filter-obj": "https://github.com/PruvoNet/os-filter-obj#9d7ad8dc06a560a43c52c8fa65bfb7e8eb192834",
 		"pify": "^4.0.1"
 	},
 	"devDependencies": {
